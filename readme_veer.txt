@@ -1,3 +1,4 @@
+0- find other methods on https://paperswithcode.com/task/3d-face-reconstruction
 1- Install MeshLab using Ubuntu Software. Required for opening 3d face file genereated by demo.py code in abc.obj formate.
 2- install below packages
 dlib                   19.18.0 
