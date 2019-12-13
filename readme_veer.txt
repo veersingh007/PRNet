@@ -12,3 +12,5 @@ opencv-python          4.1.1.26
 $python demo.py -i TestImages/ -o out/ --isDlib True
 It will generate a .obj files in out/ directory
 4- You can open the .obj file in MeshLab and see the 3d face image.
+
+5- python demo.py -i veer/ -o veer_out/ --isPose True --isShow True
