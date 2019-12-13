@@ -9,5 +9,5 @@ opencv-python          4.1.1.26
 
 3- run the demo.py file
 $python demo.py -i TestImages/ -o out/ --isDlib True
-It will generate 
-4- You wil
+It will generate a .obj files in out/ directory
+4- You can open the .obj file in MeshLab and see the 3d face image.
